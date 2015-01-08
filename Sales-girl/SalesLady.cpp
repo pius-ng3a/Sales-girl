@@ -11,7 +11,7 @@ SalesLady::SalesLady()
     }
     
 }
-string SalesLady::sayMonthName(int x)//this guy does not spell the months as 
+string SalesLady::sayMonthName(int x)//this function returns the name of the desired month
 {
     return monthName[x]; 
 }
